@@ -1,1 +1,1 @@
-# htm_memory_reclamation
+# Lock-free memory reclamation using Hardware Transactional Memory
